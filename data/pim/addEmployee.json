@@ -1,0 +1,16 @@
+{
+    "employee" : {
+      "first_name" : "Rawmes",
+      "last_name" : "Khatry"
+    },
+    "job" : {
+      "job_title" : "QA Engineer",
+      "employment_status" : "Full-Time Permanent",
+      "job_category" : "Professionals",
+      "joined_date" : "2021-01-11",
+      "sub_unit" : "Engineering",
+      "location" : "Texas R&D",
+      "start_date" : "2021-01-01",
+      "end_date" : "2022-01-01"
+    }
+}
